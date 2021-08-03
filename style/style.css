@@ -15,13 +15,13 @@ body{
 body .collapse{
     display: flex;
     flex-direction: column;
-    align-items: ;
+    align-items:center ;
     margin: 30px;
 }
 
 
 .quem-somos{
-    background-color: ;
+    background-color:black ;
     color:azure;
 }
 
