@@ -12,11 +12,13 @@ body{
     
 }
 
-body .collapse{
+body .navbar-nav{
+    margin: 15px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    margin: 30px;
+    right: 0;
+    position: fixed; 
 }
 
 .quem-somos{
