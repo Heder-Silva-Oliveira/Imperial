@@ -22,6 +22,14 @@ body .navbar-nav{
 }
 
 .quem-somos{
-    background-color:black ;
+    background-color:gray ;
     color:azure;
+}
+
+.ideal{
+    background-color:gray ;
+    color:azure;
+    padding-top: 0px;
+    padding-bottom: 100px;
+   
 }
